@@ -32,7 +32,13 @@ I'm passionate about building modular hardware/software systems, mentoring begin
 ---
 
 ## 📫 Connect with Me
+- 📞 Phone: +91 8335077942
 - 📧 souvagyakarmakar0712@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/souvagya-karmakar-85ba11362/)  
-- 📸 [Instagram](https://www.instagram.com/__souvagya_karmakar__/)  
-- 👥 [Facebook](https://facebook.com/profile.php?id=100087243093715)
+- 📸 [Instagram](https://www.instagram.com/__souvagya_karmakar__/)
+- 🧑‍💻 [HackerRank](https://www.hackerrank.com/profile/SouvagyaAI2B78)
+- 📚 [GeeksforGeeks](https://www.geeksforgeeks.org/user/karmakarso1t4k/?_gl=1*9z3jz5*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjwovPGBhDxARIsAFhgkwSqTZNBglWsSLmoZNq5lwx3yAvOHLscmOTwVlpaSq8NctcjiWm6u9YaAkarEALw_wcB&gbraid=0AAAAAC9yBkAmAT-bnyHOrOTGJxlNh1Uea)
+
+
+
+
