@@ -120,11 +120,11 @@ Let me know if you'd like to add a timeline of your learning journey, a quote th
     <a href="mailto:souvagyakarmakar0712@gmail.com" target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-512/free-gmail-2981844-2476484.png" alt="gmail" height="40"
             width="40" /></a>
-   <a href="https://www.linkedin.com/in/souvagya-karmakar/" target="_blank">
+   <a href="https://www.linkedin.com/in/souvagya-karmakar-85ba11362/" target="_blank">
   <img align="center" src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="LinkedIn" height="40" width="40" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.youtube.com/@Souvagya06" target="_blank">
+<a href="https://www.youtube.com/@Sitar_by_Souvagya" target="_blank">
   <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-youtube-85-226402.png" alt="YouTube" height="40" width="40" />
 </a>
 </p>
