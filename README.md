@@ -32,7 +32,7 @@ I'm passionate about building modular hardware/software systems, mentoring begin
 ---
 
 ## 📫 Connect with Me
-- 📧 karmasouvagya2003@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/souvagya-karmakar-0b2a29245)  
-- 📸 [Instagram](https://instagram.com/souvagya_03)  
+- 📧 souvagyakarmakar0712@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/souvagya-karmakar-85ba11362/)  
+- 📸 [Instagram](https://www.instagram.com/__souvagya_karmakar__/)  
 - 👥 [Facebook](https://facebook.com/profile.php?id=100087243093715)
