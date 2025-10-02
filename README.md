@@ -27,7 +27,7 @@ I'm passionate about building modular hardware/software systems, mentoring begin
 ---
 
 ## 📈 GitHub Stats
-![Souvagya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Souvagya-K&show_icons=true&theme=radical)
+![Souvagya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Souvagya06&show_icons=true&theme=radical)
 
 ---
 
